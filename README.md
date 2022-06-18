@@ -135,7 +135,7 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 # OUPUT
 ![image](https://user-images.githubusercontent.com/98682825/174454470-b42d3a71-f00f-4735-9ce1-43b74242a0e9.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454473-6a4f7617-1cca-4589-9959-f7cbdc07ab80.png)
-![image](https://user-images.githubusercontent.com/98682825/174454476-885384ba-cc99-46c3-9360-bd5a420dea7d.pn
+![image](https://user-images.githubusercontent.com/98682825/174454476-885384ba-cc99-46c3-9360-bd5a420dea7d.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454484-e690dc36-36ee-48b4-aa3b-946385928645.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454487-2624c320-76a2-4400-8571-e187eff04ae3.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454493-2f865af6-1490-4bf2-8a46-8103111aa70e.png)

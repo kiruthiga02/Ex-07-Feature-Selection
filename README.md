@@ -20,7 +20,7 @@ Save the data to the file
 # CODE
 
 ```
-Program developed by:kiruthiga M
+Program developed by:Kiruthiga M
 Reg no:212219040061
 ```
 ```
@@ -133,3 +133,23 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 
 
 # OUPUT
+![image](https://user-images.githubusercontent.com/98682825/174454470-b42d3a71-f00f-4735-9ce1-43b74242a0e9.png)
+![image](https://user-images.githubusercontent.com/98682825/174454473-6a4f7617-1cca-4589-9959-f7cbdc07ab80.png)
+![image](https://user-images.githubusercontent.com/98682825/174454476-885384ba-cc99-46c3-9360-bd5a420dea7d.pn
+![image](https://user-images.githubusercontent.com/98682825/174454484-e690dc36-36ee-48b4-aa3b-946385928645.png)
+![image](https://user-images.githubusercontent.com/98682825/174454487-2624c320-76a2-4400-8571-e187eff04ae3.png)
+![image](https://user-images.githubusercontent.com/98682825/174454493-2f865af6-1490-4bf2-8a46-8103111aa70e.png)
+![image](https://user-images.githubusercontent.com/98682825/174454501-64be4c9b-8611-4eac-9f14-faac823f8043.png)
+![image](https://user-images.githubusercontent.com/98682825/174454511-53c424e7-2444-4bdd-bdcc-134b208a83ad.png)
+![image](https://user-images.githubusercontent.com/98682825/174454519-525fbd20-f7d3-4a84-910b-d5c487e460c0.png)
+![image](https://user-images.githubusercontent.com/98682825/174454524-b275b523-9f81-47d5-ae9f-1b3e643e59b0.png)
+![image](https://user-images.githubusercontent.com/98682825/174454543-2e3b4d6f-da3a-4670-9a66-937c36ffe118.png)
+![image](https://user-images.githubusercontent.com/98682825/174454546-8006b42a-814f-402a-89c6-b8d291c1aa59.png)
+![image](https://user-images.githubusercontent.com/98682825/174454560-ad7f7a76-b082-4eb4-87bb-7308e3390507.png)
+![image](https://user-images.githubusercontent.com/98682825/174454574-a3949224-0e01-4f6e-8bdf-68a361f52d78.png)
+![image](https://user-images.githubusercontent.com/98682825/174454567-e576351d-558d-4fd6-a9dd-3664d9eb7276.png)
+
+## RESULT
+    The various feature selection techniques has been performed on a dataset and saved the data to a file.
+
+

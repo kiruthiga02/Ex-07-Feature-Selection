@@ -148,6 +148,8 @@ print("R_squared: " + str(round(r2_score(y,y_pred),3)))
 ![image](https://user-images.githubusercontent.com/98682825/174454560-ad7f7a76-b082-4eb4-87bb-7308e3390507.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454574-a3949224-0e01-4f6e-8bdf-68a361f52d78.png)
 ![image](https://user-images.githubusercontent.com/98682825/174454567-e576351d-558d-4fd6-a9dd-3664d9eb7276.png)
+![image](https://user-images.githubusercontent.com/98682825/174454658-67d4d3a0-c8ea-4748-8bae-9c263c78e44a.png)
+
 
 ## RESULT
     The various feature selection techniques has been performed on a dataset and saved the data to a file.
